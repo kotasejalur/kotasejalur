@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kotasejalur
 - 👀 I’m interested in Kota Sejalur
-- 🌱 I’m currently learning Kota Sejalur
 - 📫 How to reach me ksejalur@gmail.com
 
 <!---
